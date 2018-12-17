@@ -1,5 +1,7 @@
 ---
 ###### 1st Page
+This is a pitchme.md file offered from GitLab.
+
 [![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.ssafy.com)
 
 Hello, SSAFY Students!
